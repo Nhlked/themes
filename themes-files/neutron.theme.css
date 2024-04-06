@@ -27,8 +27,8 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 ##########################################################################*/
 :root {
   /* COLORS */
-  --themeColor1: #36D1DC; /* Theme's color 1 */
-  --themeColor2: #5B86E5; /* Theme's color 2 */
+  --themeColor1: #Ffc0cb; /* Theme's color 1 */
+  --themeColor2: #9370Db; /* Theme's color 2 */
 
   /* CUSTOM FONT */
   --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
@@ -39,11 +39,11 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* BACKGROUND */
   --backgroundColor: #0d0d0d; /* Background color */
-  --backgroundImage: url('https://imgur.com/qhBghXt.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('i.imgur.com/IctIbSd.jpeg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
-  --backgroundBlur: 100px; /* Set to 0 to remove blur | Set to 10px for average blur */
+  --backgroundBlur: 10px; /* Set to 0 to remove blur | Set to 10px for average blur */
   --backgroundOpacity: .65; /* 0 is transparent */
 
   /* CODE BLOCKS */
